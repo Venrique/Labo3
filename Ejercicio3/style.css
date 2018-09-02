@@ -1,0 +1,98 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    margin-left: 2%;
+}
+
+.Tboton{
+    padding: 0.75em;
+    background-color: #f4f3f2;
+    color: gray;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0 1%;
+}
+
+.Tboton.peque{
+    font-size: 0.75em;
+}
+
+.Tboton.grande{
+    font-size: 1.25em;
+}
+
+.Tboton.Cesmeralda{
+    color: white;
+    background-color: #57d68d;
+}
+
+.Tboton.Ccielo{
+    color: white;
+    background-color: #5cace2;
+}
+
+.Tboton.Camatista{
+    color: white;
+    background-color: #ae7ac4;
+}
+
+.Tboton.Casfalto{
+    color: white;
+    background-color: #5c6d7e;
+}
+
+.Tboton.Ctopacio{
+    color: white;
+    background-color: #ea974e;
+}
+
+.Tboton.Crubi{
+    color: white;
+    background-color: #eb6f62;
+}
+
+.Tboton.Bsimple{
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+}
+
+.Tboton.Besmeralda{
+    background-color: white;
+    color: #57d68d;
+    border: 1px solid #57d68d;
+}
+
+.Tboton.Bcielo{
+    background-color: white;
+    color: #5cace2;
+    border: 1px solid #5cace2;
+}
+
+.Tboton.Bamatista{
+    background-color: white;
+    color: #ae7ac4;
+    border: 1px solid #ae7ac4;
+}
+
+.Tboton.Basfalto{
+    background-color: white;
+    color: #5c6d7e;
+    border: 1px solid #5c6d7e;
+}
+
+.Tboton.Btopacio{
+    background-color: white;
+    color: #ea974e;
+    border: 1px solid #ea974e;
+}
+
+.Tboton.Brubi{
+    background-color: white;
+    color: #eb6f62;
+    border: 1px solid #eb6f62;
+}
